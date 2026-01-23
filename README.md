@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+Hello, I'm Anugreh Millicans.<br><br><br>I'm a graduate student with a unique journey into technology. With a background in Mass Communication (BA), I've chosen to pivot into Information Technology, bringing a creative perspective to the world of code. I'm driven by curiosity, persistence, and a commitment to delivering results.<br><br>Technologies & Tools<br><br>-Languages:<br>Python, JavaScript, R, C++<br><br>-Web Development:<br>HTML, CSS3, AngularJS<br><br>-Databases:<br>SQL, MariaDB, MongoDB<br><br>-AI/ML & Data Science:<br>Keras, Scikit-Learn, Matplotlib, Numpy<br><br>-Hardware & IoT:<br>Arduino, IoT basics<br><br>-Currently Expanding Into:<br>Cloud Computing<br>Cybersecurity<br><br>-What Drives Me<br>I'm in the exciting phase of deepening my technical expertise while exploring the intersections of artificial intelligence, data analysis, and software development. I thrive under pressure and believe in resilient, iterative development. When challenges arise, I focus on corrective action and continuous improvement. My background in communication helps me approach problems from multiple angles and collaborate effectively with diverse teams.<br><br>-My Approach<br>Fast learner who adapts quickly to new technologies<br>Hardworking and devoted to producing quality work<br>Problem solver who embraces challenges as growth opportunities<br>Resilient mindset focused on learning from setbacks<br><br>-Beyond the Code<br>When I'm not immersed in coding or coursework, you'll find me reading to expand my perspective, listening to music for inspiration, visiting art galleries to fuel creativity, and capturing moments through photography. I believe that creativity and technical skills complement each other, and my diverse interests help me approach technology with fresh eyes.<br>What's Next<br>I'm actively working on building my project portfolio in AI/ML and expanding my expertise in cloud technologies and cybersecurity. I'm open to collaboration, learning opportunities, and connecting with fellow developers who value persistence and growth.
 
-<!--
-**TAKEO31/TAKEO31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codedbysamuel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AnugrehMillicans) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anugrehmillicans13@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=TAKEO31&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=TAKEO31&theme=dracula&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TAKEO31&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=TAKEO31&icon=5&color=8)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
