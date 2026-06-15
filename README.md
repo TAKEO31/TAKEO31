@@ -1,5 +1,5 @@
 # 💫 About Me:
-Graduate student pivoting from Mass Communication to IT, skilled in Python, JavaScript, C++, and R, with a focus on AI/ML, and emerging interests in cloud, SQL, Data analysis and Cybersecurity.
+Graduate student pivoting from Mass Communication to IT, skilled in Python, JavaScript, HTMLS, with a focus on AI/ML, and emerging interests in cloud, SQL, Data analysis and Cybersecurity.
 
 
 ## 🌐 Socials:
